@@ -21,3 +21,5 @@ C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8
 C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.Productos.resources
 C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.Categorias.resources
 C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.Desarrollador2.resources
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.Desarrollador1.resources
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.Desarrollador3.resources
