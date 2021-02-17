@@ -16,7 +16,7 @@ namespace Proyecto8vo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Productos());
+            Application.Run(new Categorias());
         }
     }
 }
