@@ -52,6 +52,12 @@
     <Compile Include="Categorias.Designer.cs">
       <DependentUpon>Categorias.cs</DependentUpon>
     </Compile>
+    <Compile Include="Desarrollador1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desarrollador1.Designer.cs">
+      <DependentUpon>Desarrollador1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Desarrollador2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +80,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Categorias.resx">
       <DependentUpon>Categorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desarrollador1.resx">
+      <DependentUpon>Desarrollador1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Desarrollador2.resx">
       <DependentUpon>Desarrollador2.cs</DependentUpon>
