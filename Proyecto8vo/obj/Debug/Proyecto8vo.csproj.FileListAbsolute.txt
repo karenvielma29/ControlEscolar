@@ -1,0 +1,20 @@
+C:\Users\karen\source\repos\Proyecto8vo\bin\Debug\Proyecto8vo.exe.config
+C:\Users\karen\source\repos\Proyecto8vo\bin\Debug\Proyecto8vo.exe
+C:\Users\karen\source\repos\Proyecto8vo\bin\Debug\Proyecto8vo.pdb
+C:\Users\karen\source\repos\Proyecto8vo\obj\Debug\Proyecto8vo.csprojAssemblyReference.cache
+C:\Users\karen\source\repos\Proyecto8vo\obj\Debug\Proyecto8vo.Form1.resources
+C:\Users\karen\source\repos\Proyecto8vo\obj\Debug\Proyecto8vo.Properties.Resources.resources
+C:\Users\karen\source\repos\Proyecto8vo\obj\Debug\Proyecto8vo.csproj.GenerateResource.cache
+C:\Users\karen\source\repos\Proyecto8vo\obj\Debug\Proyecto8vo.csproj.CoreCompileInputs.cache
+C:\Users\karen\source\repos\Proyecto8vo\obj\Debug\Proyecto8vo.exe
+C:\Users\karen\source\repos\Proyecto8vo\obj\Debug\Proyecto8vo.pdb
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\bin\Debug\Proyecto8vo.exe.config
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\bin\Debug\Proyecto8vo.exe
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\bin\Debug\Proyecto8vo.pdb
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.csprojAssemblyReference.cache
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.Form1.resources
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.Properties.Resources.resources
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.csproj.GenerateResource.cache
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.csproj.CoreCompileInputs.cache
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.exe
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.pdb
