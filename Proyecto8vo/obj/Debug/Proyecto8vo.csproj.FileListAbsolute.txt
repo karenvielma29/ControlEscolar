@@ -18,3 +18,4 @@ C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8
 C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.csproj.CoreCompileInputs.cache
 C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.exe
 C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.pdb
+C:\Users\karen\OneDrive\Escritorio\Proyectos Git\Proyecto8vo\obj\Debug\Proyecto8vo.Productos.resources

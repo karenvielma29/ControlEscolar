@@ -10,24 +10,21 @@ using System.Windows.Forms;
 
 namespace Proyecto8vo
 {
-    public partial class Form1 : Form
+    public partial class Productos : Form
     {
-        public Form1()
+        public Productos()
         {
             InitializeComponent();
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void btn_irCliente_Click(object sender, EventArgs e)
         {
-
+            Form1 F = new Form1();
+            F.Show();
+            this.Hide();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn_salir_Click(object sender, EventArgs e)
+        private void button5_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
